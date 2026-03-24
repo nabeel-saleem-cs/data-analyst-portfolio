@@ -1,0 +1,101 @@
+﻿Order ID,Product,Category,Region,Sales,Quantity,Date
+1001,Laptop,Tech,North,1200,2,1/5/2026
+1002,Chair,Furniture,South,150,5,1/6/2026
+1003,Mouse,Tech,East,25,10,1/7/2026
+1004,Desk,Furniture,West,300,3,1/8/2026
+1005,Monitor,Tech,North,250,2,1/8/2026
+1006,Keyboard,Tech,South,45,5,1/9/2026
+1007,Office Chair,Furniture,East,200,2,1/10/2026
+1008,Printer,Tech,West,150,1,1/11/2026
+1009,Tablet,Tech,North,300,1,1/12/2026
+1010,Filing Cabinet,Furniture,South,400,1,1/12/2026
+1011,Scanner,Tech,East,125,1,1/13/2026
+1012,Notebook,Office,West,15,10,1/14/2026
+1013,Pen Set,Office,North,10,20,1/15/2026
+1014,Desk Lamp,Office,South,30,5,1/16/2026
+1015,Router,Tech,West,80,2,1/17/2026
+1016,Laptop,Tech,East,1100,1,1/18/2026
+1017,Chair,Furniture,North,160,3,1/19/2026
+1018,Mouse,Tech,South,20,8,1/20/2026
+1019,Desk,Furniture,East,310,2,1/21/2026
+1020,Monitor,Tech,West,270,1,1/22/2026
+1021,Keyboard,Tech,North,50,6,1/23/2026
+1022,Office Chair,Furniture,South,210,1,1/24/2026
+1023,Printer,Tech,East,155,2,1/25/2026
+1024,Tablet,Tech,West,320,1,1/26/2026
+1025,Filing Cabinet,Furniture,North,420,2,1/27/2026
+1026,Scanner,Tech,South,130,1,1/28/2026
+1027,Notebook,Office,East,18,15,1/29/2026
+1028,Pen Set,Office,West,12,25,1/30/2026
+1029,Desk Lamp,Office,North,32,6,1/31/2026
+1030,Router,Tech,South,85,1,2/1/2026
+1031,Laptop,Tech,West,1150,2,2/2/2026
+1032,Chair,Furniture,East,155,3,2/3/2026
+1033,Mouse,Tech,North,22,9,2/4/2026
+1034,Desk,Furniture,South,305,1,2/5/2026
+1035,Monitor,Tech,East,260,1,2/6/2026
+1036,Keyboard,Tech,West,48,4,2/7/2026
+1037,Office Chair,Furniture,North,215,2,2/8/2026
+1038,Printer,Tech,South,160,1,2/9/2026
+1039,Tablet,Tech,East,330,1,2/10/2026
+1040,Filing Cabinet,Furniture,West,430,1,2/11/2026
+1041,Scanner,Tech,North,135,1,2/12/2026
+1042,Notebook,Office,South,20,12,2/13/2026
+1043,Pen Set,Office,East,15,18,2/14/2026
+1044,Desk Lamp,Office,West,35,5,2/15/2026
+1045,Router,Tech,North,90,2,2/16/2026
+1046,Laptop,Tech,South,1180,1,2/17/2026
+1047,Chair,Furniture,West,165,4,2/18/2026
+1048,Mouse,Tech,East,28,10,2/19/2026
+1049,Desk,Furniture,North,315,2,2/20/2026
+1050,Monitor,Tech,South,280,1,2/21/2026
+1051,Keyboard,Tech,East,52,5,2/22/2026
+1052,Office Chair,Furniture,West,220,2,2/23/2026
+1053,Printer,Tech,North,165,1,2/24/2026
+1054,Tablet,Tech,South,340,1,2/25/2026
+1055,Filing Cabinet,Furniture,East,440,1,2/26/2026
+1056,Scanner,Tech,West,140,1,2/27/2026
+1057,Notebook,Office,North,22,14,2/28/2026
+1058,Pen Set,Office,South,18,20,3/1/2026
+1059,Desk Lamp,Office,East,38,6,3/2/2026
+1060,Router,Tech,West,95,1,3/3/2026
+1061,Laptop,Tech,North,1200,2,3/4/2026
+1062,Chair,Furniture,South,170,3,3/5/2026
+1063,Mouse,Tech,East,25,8,3/6/2026
+1064,Desk,Furniture,West,320,2,3/7/2026
+1065,Monitor,Tech,North,290,1,3/8/2026
+1066,Keyboard,Tech,South,55,5,3/9/2026
+1067,Office Chair,Furniture,East,225,2,3/10/2026
+1068,Printer,Tech,West,170,1,3/11/2026
+1069,Tablet,Tech,North,350,1,3/12/2026
+1070,Filing Cabinet,Furniture,South,450,1,3/13/2026
+1071,Scanner,Tech,East,145,1,3/14/2026
+1072,Notebook,Office,West,25,15,3/15/2026
+1073,Pen Set,Office,North,20,18,3/16/2026
+1074,Desk Lamp,Office,South,40,5,3/17/2026
+1075,Router,Tech,East,100,2,3/18/2026
+1076,Laptop,Tech,West,1220,1,3/19/2026
+1077,Chair,Furniture,North,180,4,3/20/2026
+1078,Mouse,Tech,South,30,9,3/21/2026
+1079,Desk,Furniture,East,325,2,3/22/2026
+1080,Monitor,Tech,West,300,1,3/23/2026
+1081,Keyboard,Tech,North,58,5,3/24/2026
+1082,Office Chair,Furniture,South,230,2,3/25/2026
+1083,Printer,Tech,East,175,1,3/26/2026
+1084,Tablet,Tech,West,360,1,3/27/2026
+1085,Filing Cabinet,Furniture,North,460,1,3/28/2026
+1086,Scanner,Tech,South,150,1,3/29/2026
+1087,Notebook,Office,East,28,15,3/30/2026
+1088,Pen Set,Office,West,22,20,3/31/2026
+1089,Desk Lamp,Office,North,42,6,4/1/2026
+1090,Router,Tech,South,105,1,4/2/2026
+1091,Laptop,Tech,East,1250,2,4/3/2026
+1092,Chair,Furniture,West,185,3,4/4/2026
+1093,Mouse,Tech,North,35,9,4/5/2026
+1094,Desk,Furniture,South,330,2,4/6/2026
+1095,Monitor,Tech,East,310,1,4/7/2026
+1096,Keyboard,Tech,West,60,5,4/8/2026
+1097,Office Chair,Furniture,North,235,2,4/9/2026
+1098,Printer,Tech,South,180,1,4/10/2026
+1099,Tablet,Tech,East,370,1,4/11/2026
+1100,Filing Cabinet,Furniture,West,470,1,4/12/2026
