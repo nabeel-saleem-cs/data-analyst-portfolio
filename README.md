@@ -15,10 +15,16 @@ Analyzed patient claims, providers, and diagnoses to generate insights and summa
 **Skills & Tools:** Excel, Pivot Tables, Charts, Data Cleaning  
 Folder: [Healthcare-Claims-Analysis](Healthcare-Claims-Analysis)
 
+### 3. Population Health Analytics (SQL)
+Analyzed healthcare claims data to uncover disease prevalence, cost drivers, and age-based trends.
+**Skills & Tools:** SQL (T-SQL), Data Analysis, Joins, Aggregations 
+Folder: [Healthcare-Claims-Analysis](Healthcare-Claims-Analysis)
+
 ## Key Skills Demonstrated
 - Data cleaning & preparation  
 - Exploratory data analysis (EDA)  
 - Data visualization & reporting  
 - Basic predictive modeling (Python)  
-- Excel-based reporting and dashboards
+- Excel-based reporting and dashboards  
+- SQL data analysis and business logic  
 
