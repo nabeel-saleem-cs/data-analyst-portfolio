@@ -1,0 +1,6 @@
+diagnosis_code,disease_name,disease_category
+E11,Type 2 Diabetes,Chronic Disease
+I10,Hypertension,Cardiovascular
+J45,Asthma,Respiratory
+I25,Coronary Artery Disease,Cardiovascular
+C50,Breast Cancer,Cancer
