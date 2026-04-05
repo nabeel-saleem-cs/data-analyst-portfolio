@@ -18,7 +18,7 @@ Folder: [Healthcare-Claims-Analysis](Healthcare-Claims-Analysis)
 ### 3. Population Health Analytics (SQL)
 Analyzed healthcare claims data to uncover disease prevalence, cost drivers, and age-based trends.
 **Skills & Tools:** SQL (T-SQL), Data Analysis, Joins, Aggregations 
-Folder: [Healthcare-Claims-Analysis](Healthcare-Claims-Analysis)
+Folder: [population-health-cost-analysis-sql](population-health-cost-analysis-sql)
 
 ## Key Skills Demonstrated
 - Data cleaning & preparation  
